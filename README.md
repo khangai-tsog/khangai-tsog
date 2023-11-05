@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khangai-tsog, a senior @UEC, Japan
-- 👀 I’m interested in Data Science, Machine Learning, and everything else related to programming
+- 👀 I’m interested in Full-Stack Web Development, Data Science, Machine Learning, and everything else related to programming
 - 🌱 I’m currently learning Competitive Programming
 - 📫 How to reach me => khangai8888@gmail.com
 
